@@ -83,12 +83,12 @@ docker rm -f apache-container
 
 ## ✅ Benefits of This Approach
 
-- ** Easy portability of Apache web server.
+- Easy portability of Apache web server.
 
-- ** Isolated environment for clean development/testing.
+- Isolated environment for clean development/testing.
 
-- ** No need to install Apache locally.
+- No need to install Apache locally.
 
-- ** Configurable through Dockerfile and extra config files.
+- Configurable through Dockerfile and extra config files.
 
 ---

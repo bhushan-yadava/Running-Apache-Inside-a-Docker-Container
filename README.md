@@ -33,8 +33,10 @@ apache-docker/
 
 ---
 
+---
 
-✅ How to Build and Run
+
+## ✅ How to Build and Run
 
 ### Build the Docker image:
 
@@ -72,12 +74,21 @@ docker stop apache-container
 
 docker rm -f apache-container
 
-✅ Benefits of This Approach
 
-Easy portability of Apache web server.
+---
 
-Isolated environment for clean development/testing.
 
-No need to install Apache locally.
+---
 
-Configurable through Dockerfile and extra config files.
+
+## ✅ Benefits of This Approach
+
+- ** Easy portability of Apache web server.
+
+- ** Isolated environment for clean development/testing.
+
+- ** No need to install Apache locally.
+
+- ** Configurable through Dockerfile and extra config files.
+
+---
